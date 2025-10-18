@@ -1,5 +1,3 @@
-![Wordpress router logo](https://i.ibb.co/nsRzTxx/wp-router-3.png)
-
 # Wordpress REST API router library 
 ![MIT license](https://img.shields.io/packagist/l/weblove/wp-router)
 ![size](https://img.shields.io/github/languages/code-size/web-love/wp-router)
